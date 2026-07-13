@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 87ad7a2b276f244439b2cda22d0b5dfe
+timeCreated: 1517071564
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86176
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Forest_2D/camera_animation/Main Camera 1.controller
+  uploadId: 228026

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cd828df9fe9944649a71260472d020f7
+timeCreated: 1517398221
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86176
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Forest_2D/_Effects/Prefabs/Smoke.prefab
+  uploadId: 228026

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c070c8f9cda3d24885e2d0afb828cf3
+timeCreated: 1517391619
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86176
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Forest_2D/_Effects/Materials/Leaves.mat
+  uploadId: 228026
