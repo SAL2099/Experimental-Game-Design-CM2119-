@@ -113,10 +113,10 @@ TextureImporter:
       name: Polaroid 5_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1125
-        height: 1119
+        x: 230
+        y: 155
+        width: 670
+        height: 802
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,8 +125,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23b0f7f568aca8d42bf3418634fe44d4
-      internalID: 1394926869
+      spriteID: 4b6122d59b9122445a193ec9d2197279
+      internalID: -1922995711
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f2c8c3a4f8bc5b94c827db3d0b67aeb9
+    spriteID: fc234adf4b5dee04492b51c6e902adba
     internalID: 0
     vertices: []
     indices: 
@@ -145,7 +145,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Polaroid 5_0: 1394926869
+      Polaroid 5_0: -1922995711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

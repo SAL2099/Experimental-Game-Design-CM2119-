@@ -3,18 +3,33 @@ using TMPro;
 
 public class GameManager : MonoBehaviour
 {
+    [Header("UI")]
+    public TextMeshProUGUI scoreText;
+
+    [Header("Collectables")]
+    public int score = 0;
 
     [Header("Scenes")]
     public SceneLoader sceneLoader;
 
-    private bool isGameOver = false;
-
-    public void GameOver()
+    void Start()
     {
-        if (isGameOver) return;
-        isGameOver = true;
+        UpdateScoreUI();
+    }
 
-        sceneLoader.LoadEnding();
+    public void AddScore(int scoreIncrease)
+    {
+        score += scoreIncrease;
+        UpdateScoreUI();
+    }
+
+    private void UpdateScoreUI()
+    {
+        if (scoreText != null)
+        {
+            scoreText.text = "" +  score;
+        }
+
     }
 
 }

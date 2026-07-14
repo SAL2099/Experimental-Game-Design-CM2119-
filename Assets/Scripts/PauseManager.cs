@@ -46,4 +46,16 @@ public class PauseManager : MonoBehaviour
         pauseMenu.SetActive(false);
         SceneManager.LoadScene("MainMenu");
     }
+
+    //For use with control menu
+
+    public void HidePauseMenu()
+    {
+        pauseMenu.SetActive(false);
+    }
+
+    public void ShowPauseMenu()
+    {
+        pauseMenu.SetActive(true);
+    }
 }

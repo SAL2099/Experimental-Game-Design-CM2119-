@@ -113,12 +113,12 @@ TextureImporter:
       name: Polaroid 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1125
-        height: 1119
+        x: 230
+        y: 155
+        width: 670
+        height: 802
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
