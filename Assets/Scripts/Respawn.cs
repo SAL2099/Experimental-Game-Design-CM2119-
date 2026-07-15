@@ -11,12 +11,6 @@ public class Respawn : MonoBehaviour
         spawnPoint = transform.position;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void RespawnPlayer()
     {
         rb.linearVelocity = Vector2.zero;
