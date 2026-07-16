@@ -3,7 +3,7 @@ Repository for CM2119 Coursework
 
 Packages Used:
 
-Conemachine
+Cinemachine
 
 Assets Used:
 
