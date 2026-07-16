@@ -3,7 +3,7 @@ Repository for CM2119 Coursework
 
 Packages Used:
 
-Conemachine
+Cinemachine
 
 Assets Used:
 
@@ -13,8 +13,12 @@ Forest Assets: https://assetstore.unity.com/packages/templates/packs/2d-forest-p
 
 Music:
 
-Background music is from Life is Stramge (Max and Vhloe (Credits), Forever, Reality Breaking Apart, Golden Hour Memories and Golden Hour with Kate)
+Background music is from Life is Stramge (Max and Chloe (Credits), Forever, Reality Breaking Apart, Golden Hour Memories and Golden Hour with Kate)
 
 Sound effects were sourced from https://pixabay.com/sound-effects
 
+Tutorials:
 
+Alaric, T. (2026). Unity 6 and C# Game Development Projects. Independently Published. - Used for setting up managers
+
+Night Run Studio (2023) Simple Dialogue System (with Portraits and Name Plates) https://www.youtube.com/watch?v=vR6H3mu_xD8 - Used to make the detection system for interactions
